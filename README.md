@@ -14,8 +14,8 @@
 
 result檔案名稱說明
 ---
->原圖名稱
->d : 深度圖
+-原圖名稱
+-d : 深度圖
 >local_min_d : 深度圖取local_min
 >GF_d : 取 guide filter(引導圖=原圖, 輸入圖=local_min_d, r=15, eps=1e-3)
 >t : GF_d 還原的 transmission, beta=1
