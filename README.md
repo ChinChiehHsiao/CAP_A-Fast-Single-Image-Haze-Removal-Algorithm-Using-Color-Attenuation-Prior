@@ -1,5 +1,6 @@
 # (2015) CAP_A Fast Single Image Haze Removal Algorithm Using Color Attenuation Prior
-![[My Image]](https://github.com/user-attachments/assets/1d55d677-04c8-46e7-8b86-6d2ffdfda26e)
+![My Image]](https://github.com/user-attachments/assets/8383ff97-e215-44ee-997b-36f740f1fb52)
+
 
 
 ZHU, Qingsong; MAI, Jiaming; SHAO, Ling. A fast single image haze removal algorithm using color attenuation prior. IEEE transactions on image processing, 2015, 24.11: 3522-3533.<br><br>
