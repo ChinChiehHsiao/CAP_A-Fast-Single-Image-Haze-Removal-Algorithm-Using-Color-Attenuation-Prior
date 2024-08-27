@@ -2,7 +2,7 @@
 ![[My Image]](https://github.com/user-attachments/assets/1d55d677-04c8-46e7-8b86-6d2ffdfda26e)
 
 
-ZHU, Qingsong; MAI, Jiaming; SHAO, Ling. A fast single image haze removal algorithm using color attenuation prior. IEEE transactions on image processing, 2015, 24.11: 3522-3533.<br>
+ZHU, Qingsong; MAI, Jiaming; SHAO, Ling. A fast single image haze removal algorithm using color attenuation prior. IEEE transactions on image processing, 2015, 24.11: 3522-3533.<br><br>
 顏色衰減先驗圖像去霧文章復現<br>
 使用python<br>
 - 原文PDF：[點擊此鏈接](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7128396)
