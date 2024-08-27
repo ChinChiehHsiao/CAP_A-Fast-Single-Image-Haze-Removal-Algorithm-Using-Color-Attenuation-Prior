@@ -4,7 +4,7 @@
 顏色衰減先驗圖像去霧文章復現<br>
 使用python<br><br>
 - 原文PDF：[點擊此鏈接](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7128396)
-- 原文DOI：[點擊此鏈接](https://ieeexplore.ieee.org/document/7128396)
+- 原文DOI：[點擊此鏈接](https://doi.org/10.1109/TIP.2015.2446191)<br><br>
 
 
 
