@@ -1,5 +1,5 @@
 # (2015) CAP_A Fast Single Image Haze Removal Algorithm Using Color Attenuation Prior
-![b6a8d002-0bb0-4d2b-a724-2674df3456b1](https://github.com/user-attachments/assets/1d55d677-04c8-46e7-8b86-6d2ffdfda26e)
+![[My Image]](https://github.com/user-attachments/assets/1d55d677-04c8-46e7-8b86-6d2ffdfda26e)
 
 顏色衰減先驗圖像去霧文章復現<br>
 使用python<br><br>
