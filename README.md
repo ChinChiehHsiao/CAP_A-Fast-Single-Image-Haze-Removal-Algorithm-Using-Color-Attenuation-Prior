@@ -26,3 +26,8 @@ result檔案名稱說明
 - clip_t &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 截斷(t, 0.1, 0.9)
 - my_CAP beta=1.0 &nbsp; : 最終去霧結果圖
 
+---
+關於
+
+- 復現 : 蕭晉杰
+- 時間 : 2024.08.27
