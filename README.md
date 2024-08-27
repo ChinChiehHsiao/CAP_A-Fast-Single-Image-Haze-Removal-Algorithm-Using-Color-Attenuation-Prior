@@ -11,7 +11,7 @@
 操作說明 
 ---
 
-打開 'my_CAP_main.py' 檔案，把圖片放進 'my dataset' 資料夾，執行即可。<br>
+打開 `my_CAP_main.py` 檔案，把圖片放進 'my dataset' 資料夾，執行即可。<br>
 結果圖將儲存在 'my result' 資料夾中。<br><br>
 
 
