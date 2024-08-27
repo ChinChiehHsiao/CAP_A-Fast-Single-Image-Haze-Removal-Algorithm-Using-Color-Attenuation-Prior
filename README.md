@@ -3,7 +3,7 @@
 
 顏色衰減先驗圖像去霧文章復現<br>
 使用python<br><br>
-- 原文PDF：[點擊此鏈接](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7128396)
+- 原文PDF：[點擊此鏈接](https://ieeexplore-ieee-org.easysearch.lib.fcu.edu.tw:3001/stamp/stamp.jsp?tp=&arnumber=7128396)
 
 
 
